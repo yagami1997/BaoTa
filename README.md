@@ -5,7 +5,7 @@
 ##### Bug提交：https://www.bt.cn/bbs/forum-39-1.html
 
 #### 安装命令：
-##### Centos
+##### 建议使用Ubuntu 20.04 LTS 
 ```bash
 yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
 ```
